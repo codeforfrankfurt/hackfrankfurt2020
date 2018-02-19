@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Sintony');
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+
+body {
+    padding-top: 70px;
+    font-family: 'PT Serif', TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;
+    font-size: 1.5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Sintony', helvetica, arial, sans-serif;
+    text-transform: uppercase;
+}
+
+.hf-stage {
+    height: 500px;
+    background-image: url("assets/frankfurt.jpg");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+}
